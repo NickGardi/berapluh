@@ -1,0 +1,35 @@
+.main-content {
+  padding-top: 5rem;
+  padding-left: 1rem;
+}
+
+.customWallet {
+  cursor: pointer !important;
+  background-color: var(--first-color) !important;
+  color: var(--title-color) !important;
+  transition: background-color 0.3s ease !important;
+  border-radius: 25px !important;
+  padding: 14px 24px 16px !important;
+  font-size: 18px !important;
+  font-weight: 700 !important;
+  line-height: 1 !important;
+  margin-top: 10px !important;
+  position: fixed !important;
+  top: 1% !important;
+  right: 2% !important;
+}
+
+/* 
+
+
+background-color: var(--first-color);
+  color: var(--title-color);
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+  transition: background-color 0.3s ease;
+  padding: 0.75rem 1.5rem;
+
+
+
+*/
